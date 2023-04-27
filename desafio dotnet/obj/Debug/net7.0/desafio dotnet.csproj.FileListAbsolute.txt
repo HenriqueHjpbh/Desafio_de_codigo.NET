@@ -1,0 +1,5 @@
+D:\Area de Trabalho\desafio dotnet\obj\Debug\net7.0\desafio dotnet.csproj.AssemblyReference.cache
+D:\Area de Trabalho\desafio dotnet\obj\Debug\net7.0\desafio dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Area de Trabalho\desafio dotnet\obj\Debug\net7.0\desafio dotnet.AssemblyInfoInputs.cache
+D:\Area de Trabalho\desafio dotnet\obj\Debug\net7.0\desafio dotnet.AssemblyInfo.cs
+D:\Area de Trabalho\desafio dotnet\obj\Debug\net7.0\desafio dotnet.csproj.CoreCompileInputs.cache
